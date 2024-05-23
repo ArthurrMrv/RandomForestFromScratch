@@ -1,0 +1,242 @@
+[
+    {
+        "hyperparameters": [
+            56,
+            12,
+            7
+        ],
+        "accuracy": 0.7932960893854749
+    },
+    {
+        "hyperparameters": [
+            56,
+            10,
+            7
+        ],
+        "accuracy": 0.8044692737430168
+    },
+    {
+        "hyperparameters": [
+            56,
+            11,
+            7
+        ],
+        "accuracy": 0.7821229050279329
+    },
+    {
+        "hyperparameters": [
+            56,
+            12,
+            6
+        ],
+        "accuracy": 0.7877094972067039
+    },
+    {
+        "hyperparameters": [
+            56,
+            12,
+            7
+        ],
+        "accuracy": 0.7932960893854749
+    },
+    {
+        "hyperparameters": [
+            55,
+            11,
+            7
+        ],
+        "accuracy": 0.8044692737430168
+    },
+    {
+        "hyperparameters": [
+            57,
+            12,
+            7
+        ],
+        "accuracy": 0.7932960893854749
+    },
+    {
+        "hyperparameters": [
+            56,
+            12,
+            7
+        ],
+        "accuracy": 0.7877094972067039
+    },
+    {
+        "hyperparameters": [
+            56,
+            10,
+            7
+        ],
+        "accuracy": 0.7988826815642458
+    },
+    {
+        "hyperparameters": [
+            55,
+            12,
+            7
+        ],
+        "accuracy": 0.7932960893854749
+    },
+    {
+        "hyperparameters": [
+            57,
+            12,
+            7
+        ],
+        "accuracy": 0.776536312849162
+    },
+    {
+        "hyperparameters": [
+            56,
+            11,
+            7
+        ],
+        "accuracy": 0.7988826815642458
+    },
+    {
+        "hyperparameters": [
+            56,
+            12,
+            5
+        ],
+        "accuracy": 0.7821229050279329
+    },
+    {
+        "hyperparameters": [
+            56,
+            8,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            55,
+            12,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            55,
+            10,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            56,
+            10,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            56,
+            11,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            57,
+            12,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            57,
+            10,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            57,
+            12,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            56,
+            12,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            54,
+            10,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            56,
+            10,
+            6
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            56,
+            10,
+            6
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            54,
+            10,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            55,
+            11,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            55,
+            11,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            55,
+            12,
+            7
+        ],
+        "accuracy": 0.0
+    },
+    {
+        "hyperparameters": [
+            56,
+            12,
+            7
+        ],
+        "accuracy": 0.0
+    }
+]
