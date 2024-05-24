@@ -1,0 +1,82 @@
+[
+    {
+        "hyperparameters": [
+            122,
+            18,
+            4
+        ],
+        "accuracy": 0.8212290502793296
+    },
+    {
+        "hyperparameters": [
+            91,
+            21,
+            7
+        ],
+        "accuracy": 0.8547486033519553
+    },
+    {
+        "hyperparameters": [
+            66,
+            4,
+            1
+        ],
+        "accuracy": 0.8156424581005587
+    },
+    {
+        "hyperparameters": [
+            16,
+            25,
+            1
+        ],
+        "accuracy": 0.8156424581005587
+    },
+    {
+        "hyperparameters": [
+            68,
+            9,
+            3
+        ],
+        "accuracy": 0.8212290502793296
+    },
+    {
+        "hyperparameters": [
+            87,
+            19,
+            6
+        ],
+        "accuracy": 0.8491620111731844
+    },
+    {
+        "hyperparameters": [
+            114,
+            15,
+            7
+        ],
+        "accuracy": 0.8547486033519553
+    },
+    {
+        "hyperparameters": [
+            87,
+            7,
+            3
+        ],
+        "accuracy": 0.8212290502793296
+    },
+    {
+        "hyperparameters": [
+            107,
+            16,
+            2
+        ],
+        "accuracy": 0.7988826815642458
+    },
+    {
+        "hyperparameters": [
+            54,
+            1,
+            6
+        ],
+        "accuracy": 0.8435754189944135
+    }
+]

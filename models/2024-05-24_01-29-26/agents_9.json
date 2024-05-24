@@ -1,0 +1,242 @@
+[
+    {
+        "hyperparameters": [
+            109,
+            7,
+            7
+        ],
+        "accuracy": 0.8067039106145252
+    },
+    {
+        "hyperparameters": [
+            112,
+            16,
+            7
+        ],
+        "accuracy": 0.8089385474860336
+    },
+    {
+        "hyperparameters": [
+            111,
+            5,
+            7
+        ],
+        "accuracy": 0.8100558659217878
+    },
+    {
+        "hyperparameters": [
+            112,
+            14,
+            7
+        ],
+        "accuracy": 0.8067039106145252
+    },
+    {
+        "hyperparameters": [
+            111,
+            4,
+            7
+        ],
+        "accuracy": 0.811173184357542
+    },
+    {
+        "hyperparameters": [
+            110,
+            14,
+            7
+        ],
+        "accuracy": 0.8100558659217878
+    },
+    {
+        "hyperparameters": [
+            87,
+            7,
+            3
+        ],
+        "accuracy": 0.7653631284916201
+    },
+    {
+        "hyperparameters": [
+            109,
+            6,
+            7
+        ],
+        "accuracy": 0.8100558659217876
+    },
+    {
+        "hyperparameters": [
+            109,
+            7,
+            5
+        ],
+        "accuracy": 0.782122905027933
+    },
+    {
+        "hyperparameters": [
+            109,
+            7,
+            6
+        ],
+        "accuracy": 0.7966480446927374
+    },
+    {
+        "hyperparameters": [
+            110,
+            7,
+            7
+        ],
+        "accuracy": 0.805586592178771
+    },
+    {
+        "hyperparameters": [
+            109,
+            7,
+            7
+        ],
+        "accuracy": 0.8089385474860336
+    },
+    {
+        "hyperparameters": [
+            109,
+            6,
+            7
+        ],
+        "accuracy": 0.8156424581005586
+    },
+    {
+        "hyperparameters": [
+            112,
+            15,
+            7
+        ],
+        "accuracy": 0.8067039106145252
+    },
+    {
+        "hyperparameters": [
+            112,
+            14,
+            7
+        ],
+        "accuracy": 0.8022346368715084
+    },
+    {
+        "hyperparameters": [
+            112,
+            16,
+            7
+        ],
+        "accuracy": 0.8044692737430168
+    },
+    {
+        "hyperparameters": [
+            112,
+            17,
+            7
+        ],
+        "accuracy": 0.8033519553072626
+    },
+    {
+        "hyperparameters": [
+            113,
+            16,
+            7
+        ],
+        "accuracy": 0.8078212290502794
+    },
+    {
+        "hyperparameters": [
+            111,
+            5,
+            7
+        ],
+        "accuracy": 0.8067039106145252
+    },
+    {
+        "hyperparameters": [
+            111,
+            3,
+            7
+        ],
+        "accuracy": 0.8145251396648044
+    },
+    {
+        "hyperparameters": [
+            110,
+            5,
+            7
+        ],
+        "accuracy": 0.805586592178771
+    },
+    {
+        "hyperparameters": [
+            111,
+            5,
+            7
+        ],
+        "accuracy": 0.8100558659217878
+    },
+    {
+        "hyperparameters": [
+            110,
+            14,
+            7
+        ],
+        "accuracy": 0.8067039106145252
+    },
+    {
+        "hyperparameters": [
+            111,
+            14,
+            7
+        ],
+        "accuracy": 0.8067039106145252
+    },
+    {
+        "hyperparameters": [
+            112,
+            14,
+            7
+        ],
+        "accuracy": 0.8044692737430168
+    },
+    {
+        "hyperparameters": [
+            112,
+            12,
+            7
+        ],
+        "accuracy": 0.8078212290502794
+    },
+    {
+        "hyperparameters": [
+            111,
+            4,
+            6
+        ],
+        "accuracy": 0.7921787709497207
+    },
+    {
+        "hyperparameters": [
+            109,
+            4,
+            7
+        ],
+        "accuracy": 0.811173184357542
+    },
+    {
+        "hyperparameters": [
+            111,
+            4,
+            6
+        ],
+        "accuracy": 0.7921787709497207
+    },
+    {
+        "hyperparameters": [
+            110,
+            14,
+            7
+        ],
+        "accuracy": 0.811173184357542
+    }
+]
